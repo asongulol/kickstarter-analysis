@@ -1,5 +1,5 @@
 # kickstarter-analysis
-Analysis of Kickstarter Data to Uncover Trends
+## Analysis of Kickstarter Data to Uncover Trends
 ### Challenge
 Both in the US and in Great Britain, Kickstarters for Theater Campaigns are in general the most successful. Theater campaigns are the most numerous among the Kickstarter categories.
 ---
