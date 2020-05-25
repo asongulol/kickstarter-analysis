@@ -11,7 +11,9 @@ Based on the box and whisker chart produced, mean campaign goal is around $4,000
 ---
 Looking at the table entitled Outcomes Based on Launch Date, Kickstarters are most successful in May and least successful in December. In addition, the success rate is greater than 90% for campaigns started in May and goes down to about 30% in December. It is recommended that Louise start her campaign to take advantage of this trend. 
 ---
-Outcome Based on Goals.png
+Outcome Based on Goals.png 
+---
+kickstarter-analysis/Outcome Based on Goals.png
 ---
 The table entitled Outcomes Based on Goals shows the relationship of the funding goals and the percentage of campaigns that either became successful or failed. Based on this table, it appears the most successful campaigns in the category “plays” are those which request less than $1000 (76% are funded successfully). Coming in second, are the “plays” that requested from between $1000 and $4,999. Based on this data, Louise should budget within this range for best chances of success. This reinforces the box and whisker chart referenced above.
 ---
